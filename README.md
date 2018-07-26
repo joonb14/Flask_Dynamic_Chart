@@ -1,5 +1,5 @@
 # Flask Dynamic Chart (feat. Highchart)
-###based on flask and Highchart js
+### based on flask and Highchart js
 
 get Data from node.js application which sends json data <br>
 (since it sends raw json object not stringified one)<br>
