@@ -25,3 +25,7 @@ flask-live-chart: https://github.com/tdiethe/flask-live-charts <br/>
 The App result will look like this on Chrome<br/>
 <br/>
 <img src="https://postfiles.pstatic.net/MjAxODA4MDVfMjA2/MDAxNTMzMzk1NjU3MDU0.7b68qkuqmY8bRAOwmVUB7cNT0YpyQnqu7ZWTLhC7-BMg.6Rvjn7UVCu2oNan1M6vyYsO8UosOC4gMgWpekByn60Ig.GIF.joonb14/%EA%B7%B8%EB%9E%98%ED%94%84.gif?type=w966">
+
+## Tutorial for Initiating Highcharts with CSV
+I also have tutorial for this: https://github.com/joonb14/CSVtoHighchart.git <br>
+Checkout the link above
