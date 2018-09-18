@@ -9,6 +9,11 @@ Check the Major value<br>
 if its already in chart - addPoint<br>
 else - addSeries then addPoint<br><br>
 ### Screenshot of Dynamic Chart
+This is what I made<br>
+A little complicated because I used csv file to Init the Chart <br>
+then used dynamically received JSON data<br>
+The App result will look like this on Chrome<br/>
+<br/>
 <img width="800" src="https://user-images.githubusercontent.com/30307587/45676473-c160aa80-bb6c-11e8-90e3-cf803f5a0857.PNG">
 
 ## Tutorial
