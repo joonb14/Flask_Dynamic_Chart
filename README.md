@@ -9,4 +9,4 @@ Check the Major value<br>
 if its already in chart - addPoint<br>
 else - addSeries then addPoint<br><br>
 ### Screenshot of Dynamic Chart
-<img width="800" src=https://user-images.githubusercontent.com/30307587/45676473-c160aa80-bb6c-11e8-90e3-cf803f5a0857.PNG"">
+<img width="800" src="https://user-images.githubusercontent.com/30307587/45676473-c160aa80-bb6c-11e8-90e3-cf803f5a0857.PNG">
